@@ -8,7 +8,7 @@ The analysis is based on data extracted from the following websites:
 * 2021-2022 Indian Super League(https://en.wikipedia.org/wiki/2021%E2%80%9322_Indian_Super_League)
 * 2022-2023 Indian Super League(https://en.wikipedia.org/wiki/2022%E2%80%9323_Indian_Super_League)
 * 2023-2024 Indian Super League(https://en.wikipedia.org/wiki/2023%E2%80%9324_Indian_Super_League)
-* Indian Super League Website  (https://www.indiansuperleague.com/stats)
+* Indian Super League Website(https://www.indiansuperleague.com/stats)
 
 ## Objectives
 This repository is a comprehensive resource for fans, analysts, and enthusiasts looking to understand the impact of Ivan Vukomanovic's strategies and leadership on the Kerala Blasters. By leveraging match data, player statistics, and strategic breakdowns, we explore:
