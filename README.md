@@ -5,9 +5,9 @@ Welcome to "Ivan's Blasters," a data-driven analysis of Kerala Blasters FC under
 ## Data Sources
 The analysis is based on data extracted from the following websites:
 
-2021-2022 Indian Super League(https://en.wikipedia.org/wiki/2021%E2%80%9322_Indian_Super_League)
-2022-2023 Indian Super League(https://en.wikipedia.org/wiki/2022%E2%80%9323_Indian_Super_League)
-2023-2024 Indian Super League(https://en.wikipedia.org/wiki/2023%E2%80%9324_Indian_Super_League)
+* 2021-2022 Indian Super League(https://en.wikipedia.org/wiki/2021%E2%80%9322_Indian_Super_League)
+* 2022-2023 Indian Super League(https://en.wikipedia.org/wiki/2022%E2%80%9323_Indian_Super_League)
+* 2023-2024 Indian Super League(https://en.wikipedia.org/wiki/2023%E2%80%9324_Indian_Super_League)
 Indian Super League Stats(https://www.indiansuperleague.com/stats)
 
 ## Objectives
