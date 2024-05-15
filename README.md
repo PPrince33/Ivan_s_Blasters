@@ -13,9 +13,9 @@ Indian Super League Stats(https://www.indiansuperleague.com/stats)
 ## Objectives
 This repository is a comprehensive resource for fans, analysts, and enthusiasts looking to understand the impact of Ivan Vukomanovic's strategies and leadership on the Kerala Blasters. By leveraging match data, player statistics, and strategic breakdowns, we explore:
 
-> The effectiveness of Vukomanovic's tactics in the Indian Super League.
-> Key performances and pivotal matches that shaped his tenure.
-> Statistical comparisons of player performances across seasons.
+* The effectiveness of Vukomanovic's tactics in the Indian Super League.
+* Key performances and pivotal matches that shaped his tenure.
+* Statistical comparisons of player performances across seasons.
 
 ## Tools and Technologies
 The analysis is performed using Python, specifically utilizing libraries such as Pandas for data manipulation, Matplotlib and Seaborn for data visualization, and Beautiful Soup for web scraping to collect relevant data.
